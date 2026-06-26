@@ -101,7 +101,7 @@ The project includes various charts such as:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/diwali-sales-analysis-python.git
+git clone https://github.com/pallavivadaje/diwali-sales-analysis-python.git
 ```
 
 2. Install required libraries
